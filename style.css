@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    display: grid;
+    place-items: center;
+    box-sizing: border-box;
+}
+
+
+form {
+    display: grid;
+    place-items: center;
+    box-shadow: 0 0 9px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.num {
+    width:  70%;
+    padding: 3px;
+    margin: 5px;
+    height: 22px;
+    border: 2px solid #00ffff;
+    border-radius: 3px;
+    outline-color: #00ffff;
+}
+
+.pass {
+    width: 70%;
+    padding: 3px;
+    height: 22px;
+    outline-color: #00ffff;
+    border: 2px solid #00ffff;
+    border-radius: 3px;
+}
+
+
+.btn {
+    margin: 4px;
+    width: 60%;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+figcaption {
+    text-decoration: underline;
+    color: green;
+}
+
+h3 {
+    color: red;
+}
+
+
+P{
+    color: red;
+    margin: 0;
+}
